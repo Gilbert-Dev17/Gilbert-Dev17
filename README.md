@@ -40,7 +40,7 @@
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=Gilbert-Dev17&theme=tokyonight" />
 </p>
--->
+
 ---
 
 ## 🚀 Projects
@@ -48,7 +48,7 @@
 - **Cache Simulator** – Desktop app built with Electron  
 - **Lyrics Finder** – Search songs by matching lyrics and titles  
 - **CARS & CATS** – Elegant café website design project  
-
+-->
 ---
 
 ## 📫 Connect With Me
