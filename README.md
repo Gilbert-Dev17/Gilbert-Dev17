@@ -33,13 +33,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Gilbert-Dev17&show_icons=true&theme=tokyonight" />
 </p>
 
+<!--
 ---
 
 ## 🔥 Contribution Streak
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gilbert-Dev17&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Gilbert-Dev17&theme=tokyonight" />
 </p>
-
+-->
 ---
 
 ## 🚀 Projects
@@ -55,10 +56,4 @@
   <a href="https://github.com/Gilbert-Dev17">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
-</p>
-
----
-
-<p align="center">
-  ⭐ Thanks for visiting my profile!
 </p>
