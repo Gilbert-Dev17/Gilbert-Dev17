@@ -1,4 +1,4 @@
-<h1 align="left">Helloooo 👋 I'm Gilbert Cura</h1>
+<h1 align="left">Helloooo 👋 I'm Gilbert</h1>
 
 <p align="left">
   🎓 Computer Science Student <br/>
@@ -30,14 +30,14 @@
 
 ## 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=GilbertCura&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gilbert-Dev17&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🔥 Contribution Streak
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GilbertCura&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gilbert-Dev17&theme=tokyonight" />
 </p>
 
 ---
@@ -52,7 +52,7 @@
 
 ## 📫 Connect With Me
 <p align="left">
-  <a href="https://github.com/GilbertCura">
+  <a href="https://github.com/Gilbert-Dev17">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
