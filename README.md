@@ -1,5 +1,4 @@
-<h1 align="left">Helloooo 👋 </br>
-I'm Gilbert </h1>
+<h1 align="left">Hello, I'm Gilbert 👋</h1>
 
 
 <p align="left">
