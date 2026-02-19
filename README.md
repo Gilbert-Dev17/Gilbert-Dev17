@@ -2,14 +2,14 @@
 
 
 <p align="left">
-  🎓 Computer Science Student <br/>
-  💻 Web Developer <br/>
-  ⚡ Next.js & React Enthusiast
+  Computer Science Student <br/>
+  Web Developer <br/>
+  Next.js & React Enthusiast
 </p>
 
 ---
 
-## 🧠 About Me
+## About Me
 - I enjoy building clean and functional web applications  
 - I work mainly with **Next.js**, **React**, and modern web tools  
 - I like turning ideas into real, usable systems  
@@ -17,7 +17,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -29,7 +29,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gilbert-Dev17&show_icons=true&theme=tokyonight" />
 </p>
@@ -37,14 +37,14 @@
 <!--
 ---
 
-## 🔥 Contribution Streak
+## Contribution Streak
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=Gilbert-Dev17&theme=tokyonight" />
 </p>
 
 ---
 
-## 🚀 Projects
+## Projects
 - **Budget Buddy** – Expense tracking and data visualization app  
 - **Cache Simulator** – Desktop app built with Electron  
 - **Lyrics Finder** – Search songs by matching lyrics and titles  
@@ -52,7 +52,7 @@
 -->
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 <p align="left">
   <a href="https://github.com/Gilbert-Dev17">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
