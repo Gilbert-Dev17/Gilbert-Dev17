@@ -6,6 +6,7 @@
   Next.js & React Enthusiast
 </p>
 
+**[LinkedIn](https://www.linkedin.com/in/gilbert-cura-9128633a3/)**
 ---
 
 ## About Me
