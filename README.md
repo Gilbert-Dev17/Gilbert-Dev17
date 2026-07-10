@@ -97,16 +97,3 @@ I build clean, fast, scalable web products end to end — from pixel-precise fro
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gilbert-Dev17&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-## Let's Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/gilbert-cura-9128633a3/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Gilbert-Dev17">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
