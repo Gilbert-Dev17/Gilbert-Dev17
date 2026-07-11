@@ -90,13 +90,13 @@ I build clean, fast, scalable web products end to end — from pixel-precise fro
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Gilbert-Dev17&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=Gilbert-Dev17&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com/?user=Gilbert-Dev17&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Gilbert-Dev17&show_icons=true&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Gilbert-Dev17&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Gilbert-Dev17&layout=compact&theme=dark&hide_border=true" />
 </p>
